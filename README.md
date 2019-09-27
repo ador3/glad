@@ -9,6 +9,5 @@ Go [here](https://glad.dav1d.de) and do the following:
  - Extensions: None
  - Options:
    - Generate a loader checked
-   - Omit KHR checked
 
 After generating the files, download glad.zip and update them in this repository.
